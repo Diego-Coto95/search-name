@@ -1,8 +1,7 @@
 import './App.css';
 import Search from "./views/Search";
 
-const App = () => {
-  return <Search />;
-} 
+const App = () => <Search />;
+
 
 export default App;
