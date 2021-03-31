@@ -15,6 +15,7 @@
     align-items: center;
 }
 body{
-    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
- background-blend-mode: multiply,multiply;
+    width: 100%;
+    height: 100vh;
+    background-image: radial-gradient(circle, #dae4ed, #a1acb3, #6b777c, #3a4649, #0f1a1c);
 }
